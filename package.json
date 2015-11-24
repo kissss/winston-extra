@@ -1,0 +1,22 @@
+{
+  "name": "winston-extra",
+  "description": "extra console winston",
+  "author": "Kissss <Mr_death@163.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kissss/winston-extra"
+  },
+  "keywords": [
+    "extra",
+    "winston",
+    "console"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "winston": ">=1.1.1 "
+  },
+  "main": "./lib/index.js"
+}
