@@ -43,4 +43,4 @@ logger.error('test error');
 ## Example
 
 
- ![image](https://github.com//kissss/winston-extra/example.png)
+ ![image](https://github.com/kissss/winston-extra/example.png)
