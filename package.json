@@ -3,7 +3,7 @@
   "description": "extra console winston",
   "author": "Kissss <Mr_death@163.com>",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/kissss/winston-extra"
@@ -14,6 +14,7 @@
     "console"
   ],
   "dependencies": {
+    "colors": "^1.1.2"
   },
   "devDependencies": {
     "winston": ">=1.1.1 "
