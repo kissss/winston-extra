@@ -33,7 +33,7 @@ logger.error('test error');
   $ curl http://npmjs.org/install.sh | sh
 ```
 
-### Installing winston-redis
+### Installing winston-extra
 
 ``` bash
   $ npm install winston
@@ -43,4 +43,4 @@ logger.error('test error');
 ## Example
 
 
- ![image](http://7xom0s.com1.z0.glb.clouddn.com/winston-extra-example.jpg)
+ ![image](http://7xom0s.com1.z0.glb.clouddn.com/winston-extra-example-1.png)
